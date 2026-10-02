@@ -1,1 +1,1 @@
-ADSPAGE 
+ADSPAGE hyper local 
